@@ -16,7 +16,7 @@
 
 ### ▶ Gameplay Video  
 لتشغيل اللعبة مباشرة من الفيديو المرفوع في الريبو:  
-[شاهد الفيديو](demo/UntitledVideo.mp4)
+[شاهد الفيديو](https://samahcodes.github.io/Snake-game-Assembly/)
 
 ---
 
